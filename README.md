@@ -95,6 +95,14 @@ POST   /api/posts/:postId/comment         → Add a comment
 GET    /api/posts/:postId/comments        → Get Comments for each posts
 ```
 
+--- 
+
+## 🖥️ Frontend Setup
+
+Frontend code is implemented in **React.js** and hosted in a separate repository:
+
+[Frontend Repository](https://github.com/savindi2003/mern-blog-app.git)
+
 
 
 
